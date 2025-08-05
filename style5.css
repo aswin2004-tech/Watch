@@ -1,0 +1,593 @@
+.main{
+    width: 100%;
+    height: 2000px;
+    background-color: black;
+
+}
+.nav{
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(90deg, #0b3e27, #197149);
+}
+.box{
+    width: 100%;
+    height: 1900px;
+background-color: rgba(245, 245, 245, 0.979);
+}
+.rect1{
+    width: 100%;
+    height: 316.7px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.b1{
+    width: 200px;
+    height: 200px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.sea{
+    width: 200px;
+    height: 200px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.b2{
+    width: 200px;
+    height: 200px;
+
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    v
+}
+.oyster{
+    width: 200px;
+    height: 200px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.b3{
+    width: 200px;
+    height: 200px;
+
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.vintage{
+    width: 200px;
+    height: 200px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.b4{
+    width: 200px;
+    height: 200px;
+  
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.bmaster{
+    width: 200px;
+    height: 200px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+
+.bb6{
+    width: 230px;
+    height: 290px;
+
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+        box-shadow: 3px 3px 50px #23ff9c;
+    }
+    cursor: pointer;
+}
+.adv{
+    width: 230px;
+    height: 290px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+    
+}
+.rect2{
+    width: 100%;
+    height: 316.6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.c1{
+    width: 220px;
+    height: 220px;
+
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.rolblack{
+    width: 220px;
+    height: 220px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.c2{
+    width: 220px;
+    height: 220px;
+
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.rolblue{
+    width: 220px;
+    height: 220px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.c3{
+    width: 220px;
+    height: 220px;
+    
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.roloy{
+    width: 220px;
+    height: 220px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.c4{
+    width: 220px;
+    height: 220px;
+  
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.rolgr{
+    width: 220px;
+    height: 220px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.rect3{
+    width: 100%;
+    height: 316.6px;
+   background-image: url(https://img.mobiles24.net/static/previews/downloads/default/331/P-637049-94CkaBnk1g-1.jpg);
+object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.d1{
+    width: 300px;
+    height: 200px;
+  
+
+   border-radius: 14px;
+       &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+        box-shadow: 3px 3px 50px #23ff9c;
+    }
+    cursor: pointer;
+}
+.rolls{
+    width: 300px;
+    height: 200px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+    
+}
+.d2{
+    width: 300px;
+    height: 200px;
+
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+        box-shadow: 3px 3px 50px #23ff9c;
+    }
+    cursor: pointer;
+}
+.legacy{
+    width: 300px;
+    height: 200px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.d3{
+    width: 300px;
+    height: 200px;
+
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+        box-shadow: 3px 3px 50px #23ff9c;
+    }
+    cursor: pointer;
+}
+.desert{
+    width: 300px;
+    height: 200px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.rect4{
+    width: 100%;
+    height: 316.6px;
+    background-color: whitesmoke;
+        display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.e1{
+    width: 100%;
+    height: 250px;
+    background-image: url(https://media.baamboozle.com/uploads/images/406351/1666994903_4495202.gif);
+
+    border-radius: 14px;
+        &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.wide1{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+        &:hover{
+        transition: 0.3s;
+        transform: scale(1);
+        box-shadow: 3px 3px 50px #2facff;
+    }
+    cursor: pointer;
+}
+
+.rect5{
+    width: 100%;
+    height: 316.6px;
+background-image: url(https://i.pinimg.com/564x/6a/01/65/6a01655f318bf51b7e8b718c725597cb.jpg);
+        display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.f1{
+    width: 280px;
+    height: 300px;
+
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.hand{
+    width: 280px;
+    height: 300px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.f2{
+    width: 280px;
+    height: 300px;
+
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.men{
+    width: 280px;
+    height: 300px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.f3{
+    width: 280px;
+    height: 300px;
+
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.dive{
+    width: 280px;
+    height: 300px;
+     border-radius: 14px;
+         &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.rect6{
+    width: 100%;
+    height: 316.6px;
+        display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+}
+.g1{
+    width: 100%;
+    height: 250px;
+
+    border-radius: 14px;
+        &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.wide2{
+    width: 100%;
+    height: 250px;
+    border-radius: 14px;
+        &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+        box-shadow: 3px 3px 50px #23a7ff;
+    }
+    cursor: pointer;
+}
+.w1{
+    text-align: center;
+   color: #0b3e27;
+       &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+
+}
+.w2{
+    text-align: center;
+   color: #0b3e27;
+       &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+
+}
+
+.w3{
+    text-align: center;
+   color: #0b3e27;
+       &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+
+}
+
+.w4{
+    text-align: center;
+   color: #0b3e27;
+       &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+
+}
+
+.w5{
+    text-align: center;
+   color: #0b3e27;
+       &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+
+}
+
+.w6{
+    text-align: center;
+   color: #0b3e27;
+       &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+
+}
+
+.w7{
+    text-align: center;
+   color: #0b3e27;
+       &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+
+}
+
+.w8{
+    text-align: center;
+   color: #0b3e27;
+       &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+
+}
+.top{
+    width: 120px;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+        position: absolute;
+    top: 48px;
+    left: -2x;
+
+}
+.material-symbols-outlined{
+    color: whitesmoke;
+            &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+    cursor: pointer;
+}
+.menu{
+    color: whitesmoke;
+    position: absolute;
+    left: 74px;
+    top: -17px;
+        &:hover{
+        transition: 0.3s;
+        transform: scale(1.3);
+    }
+    cursor: pointer;
+}
+.logo{
+width: 60px;
+height: 60px;
+position: relative;
+top: 32px;
+left: 616px;
+cursor: pointer;
+        &:hover{
+        transition: 0.3s;
+        transform: scale(1.1);
+    }
+}
+.search{
+    position: relative;
+    top: -21px;
+    right: -1050px;
+        &:hover{
+        transition: 0.3s;
+        transform: scale(1.3);
+    }
+    cursor: pointer;
+}
+.location{
+        position: absolute;
+    top: 49px;
+    right: 201px;
+        &:hover{
+        transition: 0.3s;
+        transform: scale(1.3);
+    }
+    cursor: pointer;
+
+}
+.fav{
+    position: absolute;
+    top: 49px;
+    right: 128px;
+    cursor: pointer;
+    &:hover{
+        transition: 0.3s;
+        transform: scale(1.3);
+    }
+}
+
+
