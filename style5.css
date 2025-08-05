@@ -559,9 +559,9 @@ cursor: pointer;
     }
 }
 .search{
-    position: relative;
-    top: -21px;
-    right: -1050px;
+    position: absolute;
+    top: 50px;
+    right: 264px;
         &:hover{
         transition: 0.3s;
         transform: scale(1.3);
